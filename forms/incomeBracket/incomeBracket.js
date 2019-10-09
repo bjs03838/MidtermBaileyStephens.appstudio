@@ -1,4 +1,4 @@
-
+/*
  btnSubmit.onclick=function(){
     if (inptIncome.value < 30000) {
     lblOutput.value = `With your income of $${inptIncome.value}, you are in a tax bracket of 8%`
@@ -13,3 +13,4 @@ btnGoAgain.onclick=function(){
   lblOutput.value = ""
   inptIncome.value = ""
 }
+*/
